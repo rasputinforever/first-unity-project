@@ -14,6 +14,10 @@ public class controls : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        myRigidbody.velocity = Vector2.up * 10; 
+        if (Input.GetKeyDown(KeyCode.Space) == true) 
+        {
+            myRigidbody.velocity = Vector2.up * 10;
+        }
+        
     }
-}
+} 
