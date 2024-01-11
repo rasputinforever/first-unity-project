@@ -5,3 +5,9 @@ getting used to Unity here, will likely create a very basic 2D "game". May follo
 Whatever the case, if I do make something, I'll link it here.
 
 Thanks!
+
+
+Sprites
+
+https://www.aseprite.org/#buy
+
